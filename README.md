@@ -67,7 +67,7 @@ leak, not a better model, and that the honest 0.615 is the right number to trust
 
 ## Running it
 
-Open `ARC_recovery_model.ipynb` in [Google Colab](https://colab.research.google.com), then
+Open `ARC_recovery_model.ipynb` in [Google Colab](https://colab.research.google.com/drive/1hyZTR2ONK_0DbM-pqgaK8DT718Y2XAzR), then
 **Runtime → Run all**. When prompted, upload `arc_loan_recovery_train.csv` and `arc_loan_recovery_test.csv`.
 
 **Requirements:** Python 3, `pandas`, `numpy`, `scikit-learn`, `matplotlib` — all preinstalled on Colab.
