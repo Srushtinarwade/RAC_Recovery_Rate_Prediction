@@ -1,6 +1,4 @@
 # RAC_Recovery_Rate_Prediction
-Predicts recovery rate on defaulted loans from origination and collections features. Compared baseline, linear, and tree-ensemble models via cross-validation; best model (HistGradientBoostingRegressor) 
-# ARC Loan Recovery Prediction
 
 Predicts what fraction of a defaulted loan's outstanding principal will ultimately be recovered, for a
 simulated Asset Reconstruction Company (ARC) use case.
